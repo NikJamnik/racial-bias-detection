@@ -1,0 +1,4 @@
+model,f1_mean,f1_std
+BERT,0.84,0.0154
+SVM,0.65,0.01
+Naive Bayes,0.55,0.0048
